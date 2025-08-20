@@ -13,7 +13,7 @@ Git is a distributed Version Control System which means it is a useful tool for 
 
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
-
+Committing is very similar to confirming an edit to your work. When you committ a change you save the edit that you did and now you have a new and improved work. 
 
 
 **3. What is a repository and what does it contain?**
