@@ -9,8 +9,8 @@
 All answers can be found in the README.md file
 
 **1. What is the difference between Git and GitHub?**
+Git is a distributed Version Control System (VCS), which means it is a useful tool for easily tracking changes to your code, collaborating, and sharing. 
 
-[Your answer here]
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
