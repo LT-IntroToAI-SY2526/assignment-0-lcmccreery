@@ -26,7 +26,7 @@ A repository is where your project work is and it contains the projects that you
 
 **Link to your GitHub profile repository:** 
 
-[Paste your profile repository link here - it should look something like: https://github.com/yourusername/yourusername]
+https://github.com/lcmccreery/lcmccreery 
 
 ---
 
