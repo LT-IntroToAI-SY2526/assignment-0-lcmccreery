@@ -34,7 +34,7 @@ https://github.com/lcmccreery/lcmccreery
 
 **What aspect of AI are you most excited to learn about this year? Explain why.**
 
-I most excited to learn about how AI creates an answer to a question because I find it interesting how AI is able to react to a human question and make a human like response. 
+I most excited to learn about how AI creates an answer to a question because I find it interesting how AI is able to react to a human question and make a human like response. I am curious to see how AI is created by coding. If it is I would think that it take forever to make and how much coding it would take. 
 
 ---
 
